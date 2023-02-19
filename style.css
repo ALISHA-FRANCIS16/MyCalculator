@@ -25,7 +25,7 @@
     height: 70px;
     width: 260px;
     background-color:  rgb(244, 249, 255);
-    box-shadow: inset 5px 5px 12px white,5px 5px 12px rgb(0, 45, 112);
+    box-shadow: inset 5px 5px 12px rgb(75, 75, 75),5px 5px 12px rgb(0, 45, 112);
     border: none;
     border-radius: 10px;
     color: rgb(0, 45, 112);
@@ -39,8 +39,8 @@
 button{
     height: 48px;
     width: 48px;
-    background-color:rgb(84, 163, 253);
-    box-shadow: inset 5px 5px 12px white,5px 5px 12px rgb(0, 45, 112);
+    background-color:rgb(228, 228, 228);
+    box-shadow: inset 5px 5px 12px rgb(53, 53, 53),5px 5px 12px rgb(0, 45, 112);
     border: none;
     border-radius: 15px;
     margin: 8px;
@@ -52,8 +52,8 @@ button:hover{
 .equal{
     width: 115px;
     border-radius: 15px;
-    background-color: rgb(255, 255, 255);
-        box-shadow: inset 5px 5px 12px white,5px 5px 12px rgb(0, 45, 112);
+    background-color: rgb(255, 176, 5);
+    box-shadow: inset 5px 5px 12px  rgb(255, 94, 0),5px 5px 12px rgb(0, 45, 112);
 
 }
 
